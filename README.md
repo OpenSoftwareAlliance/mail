@@ -1,3 +1,17 @@
+<!-- osa:header:start -->
+# OSA Mail
+
+Email forwarding and hosting for custom domains. Open alternative to **Gmail**, part of the [Open Software Alliance](https://github.com/OpenSoftwareAlliance) suite.
+
+| | |
+|---|---|
+| Upstream | [Forward Email](https://github.com/forwardemail/forwardemail.net), kept in sync with this repository |
+| License | MPL-2.0 and BUSL-1.1 (mixed, see LICENSE) |
+
+Credit for the original work goes to the Forward Email authors. Everything below this header is the upstream README.
+
+---
+<!-- osa:header:end -->
 <h1 align="center">
   <a href="https://forwardemail.net"><img src="https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/media/header.png" alt="ForwardEmail" /></a>
 </h1>
